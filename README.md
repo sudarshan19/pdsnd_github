@@ -19,5 +19,8 @@ The answers to the questions above will determine the city and the timeframe on 
 bikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Resources used
+https://pandas.pydata.org/pandas-docs/stable/reference/frame.html
+https://stackoverflow.com/questions/23294658/asking-the-user-for-input-until-they-give-a-valid-response
+ 
 
