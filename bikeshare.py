@@ -232,7 +232,7 @@ def main():
         user_stats(df, city)
 
         while True:
-            view_raw_data = input('\nWould you like to view first five row of raw data? Enter yes or no.\n')
+            view_raw_data = input('\nWould you like to view first five rows of raw data? Enter yes or no.\n')
             if view_raw_data.lower() != 'yes':
                 break
             display_raw_data(df)
