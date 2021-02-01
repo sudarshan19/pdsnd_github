@@ -18,6 +18,9 @@ The answers to the questions above will determine the city and the timeframe on 
 ### Files used
 bikeshare.py
 
+### Base Data
+The base data for the bikeshare analysis can be found here https://drive.google.com/drive/folders/1dvCI_D0i70iBaRtK1l6niq8EqrxsRL8F?usp=sharing
+
 ### Credits
 Resources used
 https://pandas.pydata.org/pandas-docs/stable/reference/frame.html
